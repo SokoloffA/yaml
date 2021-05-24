@@ -1,4 +1,4 @@
-module github.com/SokoloffA/yaml.v3
+module github.com/SokoloffA/yaml
 
 go 1.15
 
