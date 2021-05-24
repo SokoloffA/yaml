@@ -1,4 +1,4 @@
-module gopkg.in/yaml.v2
+module github.com/SokoloffA/yaml.v3
 
 go 1.15
 
